@@ -1,3 +1,4 @@
+markdown
 <div align="center">
 
 # 🗺️ Afyon Map Scraper & Business Insights Pipeline
@@ -64,3 +65,42 @@ To run or test this pipeline on your local machine:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/e-uynk/Afyon-Map-Scraper-Insights.git](https://github.com/e-uynk/Afyon-Map-Scraper-Insights.git)
+
+```
+
+2. **Install dependencies:**
+```bash
+pip install pandas selenium webdriver-manager
+
+```
+
+
+3. **Execute the automation script:**
+```bash
+python main.py
+
+```
+
+
+4. **Access the output:** Check your project directory for the generated structured report (`Afyon_Komple_Puanli_Final.xlsx`).
+
+---
+
+## 👤 Author
+
+**Esad UYANIK**
+
+* Software Developer
+* [GitHub Profile](https://www.google.com/search?q=https://github.com/e-uynk)
+
+---
+
+## 📄 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+```
+
+Bunu yapıştırıp kaydettikten sonra sol üstteki **Preview** tuşuna bas, nasıl mermi gibi durduğunu kendi gözlerinle göreceksin! Hadi yap da bitirelim bu işi.
+
+```
