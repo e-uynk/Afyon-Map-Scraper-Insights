@@ -3,7 +3,6 @@
 # 🗺️ National-Maps-Scraper-Pipeline
 ### Dual-Scale Enterprise Architecture: From Regional Automated Harvesting to Nationwide Spatial Analytics
 
-> [!IMPORTANT]
 > **📌 NOTE / DATASETS AVAILABLE:** 
 > This repository features a dual-scale data architecture containing two pre-compiled, real-world verified datasets located directly in the root directory:
 > 1. **Regional Deep-Dive:** **`Afyon_Komple_Puanli_Final.xlsx`** (592 granular business listings across all 12 districts of Afyonkarahisar).
