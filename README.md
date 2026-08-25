@@ -1,4 +1,3 @@
-markdown
 <div align="center">
 
 # 🗺️ Afyon Map Scraper & Business Insights Pipeline
