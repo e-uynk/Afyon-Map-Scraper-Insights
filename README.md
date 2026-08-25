@@ -1,7 +1,3 @@
-Kral kusura bakma, Markdown içindeki o link biçimlendirmesi (`[link](link)`) çakışmış ve ekran görüntüsündeki gibi garip parçalanmış!
-
-Hemen o hatayı kökünden düzelttim. Aşağıdaki **tertemiz, tek parça ve hatasız** README kodunu doğrudan kopyalayıp yapıştırabilirsin:
-
 ```markdown
 <div align="center">
 
