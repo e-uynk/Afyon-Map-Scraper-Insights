@@ -3,7 +3,6 @@
 # 🗺️ Afyon Map Scraper & Business Insights Pipeline
 ### Automated Google Maps Data Harvesting, Cleaning & Intelligence Engine for Afyonkarahisar
 
-> [!IMPORTANT]
 > **📌 NOTE:** 
 > The real-world dataset containing **592 unique businesses** extracted by this project has been added to the root directory as **`Afyon_Komple_Puanli_Final.xlsx`**. You can click to inspect or download it directly!
 
