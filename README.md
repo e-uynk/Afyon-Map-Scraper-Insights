@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗺️ National Map Scraper & Geographic Business Intelligence Hub
+# 🗺️ National-Maps-Scraper-Pipeline
 ### Dual-Scale Enterprise Architecture: From Regional Automated Harvesting to Nationwide Spatial Analytics
 
 > [!IMPORTANT]
@@ -27,7 +27,7 @@
 
 In modern market research, competitor analysis, and location-based logistics, acquiring clean geographical data at scale is a monumental bottleneck. Traditional manual collection is tedious, error-prone, and economically unsustainable.
 
-**National Map Scraper & Geographic Intelligence Hub** demonstrates a scalable engineering lifecycle:
+**National-Maps-Scraper-Pipeline** demonstrates a scalable engineering lifecycle:
 * **Phase 1 (Regional Granularity):** Automated 100% coverage across Afyonkarahisar's 12 districts to build robust DOM traversal and fallback mechanisms.
 * **Phase 2 (Nationwide Scaling):** Scaled the pipeline architecture to harvest, sanitize, and structure **250,000+ commercial listings nationwide**, complete with geographic coordinates (Latitude/Longitude) and engagement metrics (Review Counts).
 
@@ -81,13 +81,13 @@ To run, test, or extend this data pipeline locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/e-uynk/Afyon-Map-Scraper-Insights.git](https://github.com/e-uynk/Afyon-Map-Scraper-Insights.git)
+   git clone [https://github.com/e-uynk/National-Maps-Scraper-Pipeline.git](https://github.com/e-uynk/National-Maps-Scraper-Pipeline.git)
 
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-cd Afyon-Map-Scraper-Insights
+cd National-Maps-Scraper-Pipeline
 
 ```
 
