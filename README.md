@@ -3,6 +3,12 @@
 # 🗺️ Afyon Map Scraper & Business Insights Pipeline
 ### Automated Google Maps Data Harvesting, Cleaning & Intelligence Engine for Afyonkarahisar
 
+> [!IMPORTANT]
+> **📌 NOT / NOTE:** 
+> Projenin ürettiği **592 benzersiz işletmeyi** içeren gerçek veri seti **`Afyon_Komple_Puanli_Final.xlsx`** adıyla deponun en üst dizinine eklenmiştir. Dosyaya tıklayarak doğrudan inceleyebilir veya indirebilirsiniz!
+> 
+> The real dataset containing **592 unique businesses** extracted by this project has been added to the root directory as **`Afyon_Komple_Puanli_Final.xlsx`**. You can click to inspect or download it directly!
+
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)]()
 [![Selenium](https://img.shields.io/badge/automation-Selenium-orange.svg)]()
@@ -97,9 +103,3 @@ python main.py
 ## 📄 License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
-
-```
-
-Bunu yapıştırıp kaydettikten sonra sol üstteki **Preview** tuşuna bas, nasıl mermi gibi durduğunu kendi gözlerinle göreceksin! Hadi yap da bitirelim bu işi.
-
-```
