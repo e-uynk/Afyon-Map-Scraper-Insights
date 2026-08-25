@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🗺️ Afyon Map Scraper & Business Insights Pipeline
@@ -41,20 +40,20 @@ Transparency and verification are key to great software. This repository include
 
 ## ⚙️ Key Technical Features
 
-*   **Multi-District Batch Processing:** Dynamically loops through regional parameters to ensure zero coverage gaps.
-*   **Robust Dynamic Scroll Engine:** Interacts with hidden feed containers (`div[role="feed"]`) to trigger lazy-loaded map elements seamlessly.
-*   **Smart Fallback Parsing:** Multi-layered exception handling (`try-except`) that extracts ratings reliably from both class selectors and complex `aria-label` DOM properties.
-*   **Automated Data Hygiene:** Integrated Pandas pipeline that filters out duplicates and normalizes string values for pristine reporting.
+* **Multi-District Batch Processing:** Dynamically loops through regional parameters to ensure zero coverage gaps.
+* **Robust Dynamic Scroll Engine:** Interacts with hidden feed containers (`div[role="feed"]`) to trigger lazy-loaded map elements seamlessly.
+* **Smart Fallback Parsing:** Multi-layered exception handling (`try-except`) that extracts ratings reliably from both class selectors and complex `aria-label` DOM properties.
+* **Automated Data Hygiene:** Integrated Pandas pipeline that filters out duplicates and normalizes string values for pristine reporting.
 
 ---
 
 ## 🛠️ Technology Stack
 
-*   **Core Language:** Python
-*   **Web Scraping & Automation:** Selenium WebDriver, WebDriver Manager
-*   **Data Manipulation & Cleaning:** Pandas
-*   **Output Format:** OpenXML Spreadsheet (.xlsx)
-*   **Version Control:** Git & GitHub
+* **Core Language:** Python
+* **Web Scraping & Automation:** Selenium WebDriver, WebDriver Manager
+* **Data Manipulation & Cleaning:** Pandas
+* **Output Format:** OpenXML Spreadsheet (.xlsx)
+* **Version Control:** Git & GitHub
 
 ---
 
@@ -65,42 +64,3 @@ To run or test this pipeline on your local machine:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/e-uynk/Afyon-Map-Scraper-Insights.git](https://github.com/e-uynk/Afyon-Map-Scraper-Insights.git)
-
-```
-
-2. **Install dependencies:**
-```bash
-pip install pandas selenium webdriver-manager
-
-```
-
-
-3. **Execute the automation script:**
-```bash
-python main.py
-
-```
-
-
-4. **Access the output:** Check your project directory for the generated structured report (`Afyon_Komple_Puanli_Final.xlsx`).
-
----
-
-## 👤 Author
-
-**Esad UYANIK**
-
-* Software Developer
-* [GitHub Profile](https://www.google.com/search?q=https://github.com/e-uynk)
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
-```
-
-Şimdi bu kutudakini yapıştırdığında taş gibi, pırıl pırıl duracak!
-
-```
